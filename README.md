@@ -1,1 +1,1 @@
-Had a good component for navigation bar.
+okayish state management concept here.
